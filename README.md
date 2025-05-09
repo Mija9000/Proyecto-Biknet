@@ -1,2 +1,2 @@
 # Proyecto-Biknet
-Repositorio oficial del proyecto de Mijail, Joaquin, Lucia, Ignacio, Valeria
+Repositorio oficial del proyecto de Mijail, Sebastian, Gabriel, Hector y Joseph.
