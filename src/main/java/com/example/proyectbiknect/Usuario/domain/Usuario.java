@@ -2,6 +2,8 @@ package com.example.proyectbiknect.Usuario.domain;
 
 // === Usuario ===
 
+// hay que cambiarlo para que sea de security
+
 import com.example.proyectbiknect.Estadistica.domain.Estadistica;
 import com.example.proyectbiknect.SocialProfile.domain.PerfilSocial;
 import jakarta.persistence.*;
